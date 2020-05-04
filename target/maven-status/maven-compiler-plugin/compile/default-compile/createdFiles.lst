@@ -1,0 +1,5 @@
+com/apparel/apparelstore/repositories/ClothingRepository.class
+com/apparel/apparelstore/controllers/ClothingController.class
+com/apparel/apparelstore/ApparelStoreApplication.class
+com/apparel/apparelstore/controllers/VersionController.class
+com/apparel/apparelstore/models/Clothing.class
